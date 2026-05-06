@@ -41,3 +41,6 @@
 - 新增：GitHub Actions 自动构建与自动发布
 - 优化：添加应用签名配置
 - 优化：更新 README 文档
+
+## 参考
+- https://github.com/dogproton/SafeBaiyun
